@@ -7,6 +7,7 @@ def key_for_min_value(hash)
     value[0] <=> value[1]
     lowest_value = key
   end
+  lowest_value
 end
 
 
